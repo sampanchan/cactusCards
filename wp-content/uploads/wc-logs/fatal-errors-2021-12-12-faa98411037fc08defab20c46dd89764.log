@@ -1,0 +1,18 @@
+2021-12-12T01:14:13+00:00 CRITICAL syntax error, unexpected ''order'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/samantha/Desktop/6thQuarter/Wordpress/cactusFruitCards/wp-content/themes/cactus-fruit-cards/front-page.php on line 30
+
+2021-12-12T18:09:19+00:00 CRITICAL Uncaught Error: Call to undefined function get_aside() in /Users/samantha/Desktop/6thQuarter/Wordpress/cactusFruitCards/wp-content/themes/cactus-fruit-cards/front-page.php:26
+Stack trace:
+#0 /Users/samantha/Desktop/6thQuarter/Wordpress/cactusFruitCards/wp-includes/template-loader.php(106): include()
+#1 /Users/samantha/Desktop/6thQuarter/Wordpress/cactusFruitCards/wp-blog-header.php(19): require_once('/Users/samantha...')
+#2 /Users/samantha/Desktop/6thQuarter/Wordpress/cactusFruitCards/index.php(17): require('/Users/samantha...')
+#3 {main}
+  thrown in /Users/samantha/Desktop/6thQuarter/Wordpress/cactusFruitCards/wp-content/themes/cactus-fruit-cards/front-page.php on line 26
+
+2021-12-12T21:01:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_cards() in /Users/samantha/Desktop/6thQuarter/Wordpress/cactusFruitCards/wp-content/themes/cactus-fruit-cards/front-page.php:84
+Stack trace:
+#0 /Users/samantha/Desktop/6thQuarter/Wordpress/cactusFruitCards/wp-includes/template-loader.php(106): include()
+#1 /Users/samantha/Desktop/6thQuarter/Wordpress/cactusFruitCards/wp-blog-header.php(19): require_once('/Users/samantha...')
+#2 /Users/samantha/Desktop/6thQuarter/Wordpress/cactusFruitCards/index.php(17): require('/Users/samantha...')
+#3 {main}
+  thrown in /Users/samantha/Desktop/6thQuarter/Wordpress/cactusFruitCards/wp-content/themes/cactus-fruit-cards/front-page.php on line 84
+
